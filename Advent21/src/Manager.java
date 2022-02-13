@@ -8,7 +8,10 @@ public class Manager {
 //		day2.calculateDirectDistance();
 //		day2.calculateByAim();
 
-		Day3 day3 = new Day3();
-		day3.calculatePowerConsumption();
+//		Day3 day3 = new Day3();
+//		day3.calculatePowerConsumption();
+
+		Day4 day4 = new Day4();
+		day4.print_boards();
 	}
 }
